@@ -1,0 +1,16 @@
+{
+  "name": "nome da pessoa",
+  "email": "email@email.com",
+  "address": [
+    {
+    "street" :"teste",
+    "number": 45
+    }
+  ],
+  "phone" : [
+    {
+      "prefix" : 11,
+      "number": "983114546"
+    }
+  ]
+}
